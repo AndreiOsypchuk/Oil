@@ -1,0 +1,6 @@
+[submodule "Oil/vendor/spdlog"]
+	path = Oil/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Oil/vendor/GLFW"]
+	path = Oil/vendor/GLFW
+	url = https://github.com/AndreiOsypchuk/glfw
